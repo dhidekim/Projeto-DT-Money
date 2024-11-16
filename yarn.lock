@@ -1333,6 +1333,11 @@ path-key@^3.1.0:
   resolved "https://registry.npmjs.org/path-key/-/path-key-3.1.1.tgz"
   integrity sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q==
 
+phosphor-react@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.npmjs.org/phosphor-react/-/phosphor-react-1.4.1.tgz"
+  integrity sha512-gO5j7U0xZrdglTAYDYPACU4xDOFBTJmptrrB/GeR+tHhCZF3nUMyGmV/0hnloKjuTrOmpSFlbfOY78H39rgjUQ==
+
 picocolors@^1.0.0, picocolors@^1.1.0:
   version "1.1.1"
   resolved "https://registry.npmjs.org/picocolors/-/picocolors-1.1.1.tgz"
@@ -1375,7 +1380,8 @@ prelude-ls@^1.2.1:
   version "0.0.0"
   dependencies:
     "@babel/core" "^7.26.0"
-    projeto-dt-money "file:../../../Users/dhide/AppData/Local/Yarn/Cache/v6/npm-projeto-dt-money-0.0.0-1fb78234-21e0-4a77-bf48-ab83318bf00a-1730692454610/node_modules/projeto-dt-money"
+    phosphor-react "^1.4.1"
+    projeto-dt-money "file:../../../Users/dhide/AppData/Local/Yarn/Cache/v6/npm-projeto-dt-money-0.0.0-379c4ab4-1290-4c49-ae77-0b48f3afe349-1731720678886/node_modules/projeto-dt-money"
     react "^18.3.1"
     react-dom "^18.3.1"
     react-is "^18.3.1"
