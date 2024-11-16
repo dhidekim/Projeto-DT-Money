@@ -12,6 +12,7 @@
   "dependencies": {
     "@babel/core": "^7.26.0",
     "@radix-ui/react-dialog": "^1.0.0",
+    "@radix-ui/react-radio-group": "^1.0.0",
     "phosphor-react": "^1.4.1",
     "projeto-dt-money": "file:",
     "react": "^18.3.1",
