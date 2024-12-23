@@ -63,6 +63,14 @@
       "type": "income",
       "createdAt": "2024-11-18T04:07:52.657Z",
       "id": 8
+    },
+    {
+      "description": "Chocolate Branco",
+      "price": 15,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-12-23T19:49:12.044Z",
+      "id": 9
     }
   ]
 }
